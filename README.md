@@ -1,7 +1,7 @@
 # 🏠 Smart Home Hub – Java Simulation
 
 Eine robuste, objektorientierte Simulation einer Smart-Home-Zentrale, entwickelt mit Java und Swing. Dieses Projekt demonstriert die praktische Anwendung moderner Software-Architekturmuster und die Integration von grafischen Benutzeroberflächen.
-
+![Dashboard Vorschau](image.png)
 ## 🚀 Highlights
 * **Dynamische Geräteverwaltung**: Hinzufügen, Steuern und Entfernen von Geräten in Echtzeit über ein Dashboard.
 * **Persistente Datenspeicherung**: Automatische Serialisierung der Konfiguration in eine `config.json` beim Schließen oder Speichern – deine Geräte sind beim nächsten Start sofort wieder da.
