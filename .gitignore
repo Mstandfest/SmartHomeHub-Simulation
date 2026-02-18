@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# IntelliJ Projektdateien
+.idea/
+*.iml
+out/
+gen/
+
+# Kompilierte Dateien
+*.class
+
+# Lokale Konfiguration (dein Hub-Gedächtnis)
+config.json
+
+# Betriebssystem-spezifisches
+.DS_Store
+Thumbs.db
