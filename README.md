@@ -40,7 +40,7 @@ Das System enthält bereits ein Grundgerüst für Automatisierungen (`Automation
 ---
 
 ## Installation & Setup
-1. Klone das Repository: `git clone [DEIN_LINK]`
+1. Klone das Repository: `git clone https://github.com/Mstandfest/SmartHomeHub-Simulation`
 2. Öffne den Ordner in **IntelliJ IDEA**.
 3. Stelle sicher, dass die `libs/flatlaf-3.4.1.jar` als Library eingebunden ist.
 4. Starte die Anwendung über die `Main.java`.
